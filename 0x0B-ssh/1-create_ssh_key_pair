@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+# creates a new 4096 bit ssh key
+ssh-keygen -t rsa -b 4096 -f school
